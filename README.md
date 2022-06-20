@@ -1,4 +1,4 @@
-# About Me
+# About Me 🍪
 
 ## Intro
 Hi, ich bin Josh aus HH. :bow:
