@@ -12,3 +12,5 @@ Hi, ich bin Josh aus HH. :bow:
 
 ## Socials
 - **eMail** => jeycuff@gmail.com
+
+![](https://github.com/j-eick/j-eick/blob/add-gifs/lazy-cat.gif)
