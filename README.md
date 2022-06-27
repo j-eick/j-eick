@@ -14,5 +14,3 @@
 
 ## Socials
 - **eMail** => jeycuff@gmail.com
-
-![](https://github.com/j-eick/j-eick/blob/main/lazy-cat.gif)
