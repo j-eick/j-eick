@@ -1,8 +1,8 @@
 # Welcome to my 📜
 
 ### I am... 🧑🏻‍💻
-- Josh from Hamburg/Germany, 36 y.o. </br>
-- a big fan of Web- & XR-Technologies (and brainy movie quotes)
+- Josh from Hamburg/Germany
+- a big fan of Web- & XR-Technologies
 
 ### 
 ### Questions
