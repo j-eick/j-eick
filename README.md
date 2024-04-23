@@ -31,12 +31,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=j-eick&show_icons=true&locale=en&theme=algolia" alt="j-eick" />
 </a>
 </p>
-
-<br>
-
-<h3 align="left">🔗 Find me on</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/joschka-eickhoff/"><img src="https://img.shields.io/badge/Joschka%Eickhoff?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j-eick&label=Profile%20views&color=0e75b6&style=flat" alt="j-eick" /> </p>
