@@ -1,6 +1,6 @@
 <h1 align="center">I am Josh</h1>
 <h3 align="center">If I'm not sitting at my laptop coding away you find me on the training ground.</h3>
-<p align="center">If you've got something on your mind... don't hesitate and reach out to me. You find my eMail down below.</p>
+<p align="center">If you've got something on your mind... don't hesitate and reach out to me.</p>
 <br><br>
 
 <br>
