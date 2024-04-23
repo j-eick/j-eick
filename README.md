@@ -31,3 +31,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=j-eick&show_icons=true&locale=en&theme=algolia" alt="j-eick" />
 </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=j-eick&label=Profile%20views&color=0e75b6&style=flat" alt="j-eick" /> </p>
