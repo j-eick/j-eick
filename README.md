@@ -1,10 +1,7 @@
-<h1 align="center">This is Josh</h1>
-<h3 align="center">If I'm not sitting at my laptop 🧑🏻‍💻 coding away, you find me on the training-ground.</h3>
-<p align="center">I am a generalist with experience in nursing, Human-Computer-Interaction and Webdevelopment in my backpack. Just so you know... I love learning.
+<h1 align="center">I am Josh</h1>
+<h3 align="center">If I'm not sitting at my laptop coding away you find me on the training ground.</h3>
 <p align="center">If you've got something on your mind... don't hesitate and reach out to me. You find my eMail down below.</p>
 <br><br>
-
-📫 **jeickhoff@posteo.de**
 
 <br>
 
